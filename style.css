@@ -1,0 +1,18 @@
+/* カスタムスタイル */
+.jumbotron {
+    background-color: #1A1373;
+    color: #FDFDFD;
+    border-radius: 0;
+}
+
+.jumbotron .lead {
+    color: #F0F0F0;
+}
+
+.card-text small {
+    font-weight: 600;
+}
+
+.progress {
+    height: 12px;
+}
